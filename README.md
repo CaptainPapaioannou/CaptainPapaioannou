@@ -3,17 +3,12 @@
 <img align="right" alt="Homer Simpson Coding" width="400" src="https://media.tenor.com/xbEvFxcQT7QAAAAC/the-simpsons-work.gif">
 
 
-- Passionate Tech enthusiast **with business background**
+- 🌱 Currently exploring **Machine Learning**
 
-- 🌱 I’m currently learning **Linux and Hardware troubleshooting**
-
-- 🔭 Interested in **Security and Data**
+- 🔭 Interested in **PowerPlatform and Data Analytics**
 
 - 📫 Business inquiries: **sotiris-papaioannou@outlook.com**
 
-- ⚡ Fun fact **I am an MMA fighter and a Dancer**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sotiris-papaioannou-13b97b26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sotiris-papaioannou-13b97b26a/" height="30" width="40" /></a>
 </p>
